@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # Hi 👋, I'm Harsh Aditya
@@ -31,7 +31,7 @@ Passionate **B.Tech Computer Science & Engineering** student focused on **Java B
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -54,7 +54,7 @@ Passionate **B.Tech Computer Science & Engineering** student focused on **Java B
 - 🏗️ Exploring **REST APIs**, scalable backend architecture, and clean code
 - 🎯 Building real-world projects to become a **Full Stack Java Developer**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -106,11 +106,10 @@ Passionate **B.Tech Computer Science & Engineering** student focused on **Java B
 
 </p>
 
----
+
 
 > **Always learning new technologies while building real-world applications.**
-```
-```md id="j2r8kn"
+
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -127,7 +126,7 @@ Passionate **B.Tech Computer Science & Engineering** student focused on **Java B
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshaditya1&theme=github-dark&hide_border=true&area=true" />
 </p>
 
----
+
 
 ## 🧩 Problem Solving
 
@@ -153,7 +152,7 @@ Strengthening problem-solving skills through consistent practice on coding platf
   <img src="https://leetcard.jacoblin.cool/Harsh_2218?theme=dark&font=Poppins&ext=contest" />
 </p>
 
----
+
 
 ## 💼 Featured Projects
 
@@ -261,9 +260,7 @@ A modern portfolio showcasing projects, certifications, technical skills, achiev
 
 </table>
 
----
-```
-```md id="u9x4pl"
+
 ## 🎯 2026 Goals
 
 <table>
@@ -282,7 +279,7 @@ A modern portfolio showcasing projects, certifications, technical skills, achiev
 </tr>
 </table>
 
----
+
 
 ## 📬 Connect With Me
 
@@ -314,7 +311,7 @@ A modern portfolio showcasing projects, certifications, technical skills, achiev
 
 </div>
 
----
+
 
 ## 👀 Profile Views
 
@@ -324,7 +321,7 @@ A modern portfolio showcasing projects, certifications, technical skills, achiev
 
 </div>
 
----
+
 
 ## 💡 Quote
 
@@ -334,7 +331,7 @@ A modern portfolio showcasing projects, certifications, technical skills, achiev
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -345,4 +342,4 @@ If you like my work, feel free to ⭐ my repositories, connect with me, or colla
 ### Let's build something amazing together! 🚀
 
 </div>
-```
+
